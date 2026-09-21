@@ -1,10 +1,10 @@
 <!-- ========== HEADER ========== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22d3ee,50:3b82f6,100:8b5cf6&height=230&section=header&text=Hey%2C%20I'm%20Gouri%20%F0%9F%91%8B&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Learning%20to%20code%20%7C%20Building%20small%20projects%20%7C%20Growing%20every%20day&descAlignY=58&descSize=16" width="100%" alt="header"/>
+<img src="https://raw.githubusercontent.com/gouri-nandha/gouri-nandha/main/header.svg" width="100%" alt="Hey, I'm Gouri - animated header"/>
 
 <a href="https://github.com/gouri-nandha">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=22D3EE&center=true&vCenter=true&width=650&height=50&lines=Welcome+to+my+little+corner+of+GitHub+%F0%9F%9A%80;Learning+by+trying%2C+failing+and+improving+%F0%9F%92%AA;HTML+%7C+CSS+%7C+Python+%7C+JavaScript+%7C+React;Looking+to+collaborate+on+student+projects+%F0%9F%A4%9D;Let's+build+something+awesome+together+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=22D3EE&center=true&vCenter=true&width=650&height=50&lines=Welcome+to+my+little+corner+of+GitHub;Learning+by+trying%2C+failing+and+improving;HTML+%7C+CSS+%7C+Python+%7C+JavaScript+%7C+React;Looking+to+collaborate+on+student+projects;Let's+build+something+awesome+together" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -16,7 +16,7 @@
 <br/><br/>
 
 <a href="https://genuine-cendol-9770cd.netlify.app/">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2500&pause=800&color=34D399&center=true&vCenter=true&width=420&height=40&lines=%F0%9F%8C%90+Visit+my+portfolio+%E2%86%92;Click+here+to+see+my+work+%E2%9C%A8" alt="Visit my portfolio"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2500&pause=800&color=34D399&center=true&vCenter=true&width=420&height=40&lines=Visit+my+portfolio+%E2%86%92;Click+here+to+see+my+work" alt="Visit my portfolio"/>
 </a>
 
 </div>
