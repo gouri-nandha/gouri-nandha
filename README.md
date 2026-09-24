@@ -239,7 +239,7 @@ const gouri = {
 <a href="https://instagram.com/gourii._.ih"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/></a>
 <a href="https://linkedin.com/in/gouri-nandhana"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:gourinandhana007@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://genuine-cendol-9770cd.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=00C7B7" alt="Portfolio"/></a>
+<a href="https://gourinandhana-a-m-portfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=00C7B7" alt="Portfolio"/></a>
 
 <br/><br/>
 
