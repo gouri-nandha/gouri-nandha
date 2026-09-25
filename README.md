@@ -15,7 +15,7 @@
 
 <br/><br/>
 
-<a href="https://genuine-cendol-9770cd.netlify.app/">
+<a href="https://gourinandhana-a-m-portfolio.netlify.app/">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2500&pause=800&color=34D399&center=true&vCenter=true&width=420&height=40&lines=Visit+my+portfolio+%E2%86%92;Click+here+to+see+my+work" alt="Visit my portfolio"/>
 </a>
 
@@ -61,7 +61,7 @@ const gouri = {
   lookingFor: ["Student projects", "Beginner-friendly open source", "Learning buddies"],
   askMeAbout: ["Basic coding", "HTML", "CSS", "Python", "GitHub"],
   funFact: "I learn by trying, failing and improving 💡",
-  portfolio: "https://genuine-cendol-9770cd.netlify.app/",
+  portfolio: "https://gourinandhana-a-m-portfolio.netlify.app/",
 };
 ```
 
@@ -81,6 +81,8 @@ const gouri = {
 <summary><b>🧑‍💻 Languages</b></summary>
 <br/>
 
+<div align="center">
+
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -88,22 +90,30 @@ const gouri = {
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
+</div>
+
 </details>
 
 <details open>
 <summary><b>🎨 Frontend</b></summary>
 <br/>
 
+<div align="center">
+
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+
+</div>
 
 </details>
 
 <details open>
 <summary><b>⚙️ Backend & Databases</b></summary>
 <br/>
+
+<div align="center">
 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
@@ -115,16 +125,22 @@ const gouri = {
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
+</div>
+
 </details>
 
 <details open>
 <summary><b>📊 Data & ML</b></summary>
 <br/>
 
+<div align="center">
+
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+
+</div>
 
 </details>
 
@@ -132,12 +148,16 @@ const gouri = {
 <summary><b>☁️ Tools & Deployment</b></summary>
 <br/>
 
+<div align="center">
+
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+
+</div>
 
 </details>
 
@@ -199,21 +219,56 @@ const gouri = {
 <a id="stats"></a>
 ## 📊 GitHub Stats
 
+### 🏆 Overview
+
 <div align="center">
-
-<img height="180" src="https://github-readme-stats.shion.dev/api?username=gouri-nandha&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=false&count_private=false" alt="stats"/>
-<img height="180" src="https://github-readme-stats.shion.dev/api/top-langs/?username=gouri-nandha&theme=tokyonight&hide_border=true&layout=compact" alt="top languages"/>
+<table>
+  <tr>
+    <td align="center" valign="top">
+      <h4>Profile Stats</h4>
+      <img height="180" src="https://github-readme-stats.shion.dev/api?username=gouri-nandha&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=false&count_private=false" alt="profile stats"/>
+    </td>
+    <td align="center" valign="top">
+      <h4>Most Used Languages</h4>
+      <img height="180" src="https://github-readme-stats.shion.dev/api/top-langs/?username=gouri-nandha&theme=tokyonight&hide_border=true&layout=compact" alt="most used languages"/>
+    </td>
+  </tr>
+</table>
+</div>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=gouri-nandha&theme=tokyonight&hide_border=true" alt="streak"/>
+### 🔥 Contribution Streak
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=gouri-nandha&theme=tokyonight&hide_border=true" alt="contribution streak"/>
+</div>
 
 <br/>
 
-<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gouri-nandha&theme=tokyonight" alt="profile details"/>
-<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gouri-nandha&theme=tokyonight" alt="repos per language"/>
-<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gouri-nandha&theme=tokyonight" alt="most commit language"/>
+### 📈 Contribution Activity
 
+<div align="center">
+  <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gouri-nandha&theme=tokyonight" alt="contribution activity"/>
+</div>
+
+<br/>
+
+### 🌐 Languages Breakdown
+
+<div align="center">
+<table>
+  <tr>
+    <td align="center" valign="top">
+      <h4>By Repository</h4>
+      <img height="190" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gouri-nandha&theme=tokyonight" alt="languages by repository"/>
+    </td>
+    <td align="center" valign="top">
+      <h4>By Commits</h4>
+      <img height="190" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gouri-nandha&theme=tokyonight" alt="languages by commits"/>
+    </td>
+  </tr>
+</table>
 </div>
 
 <br/>
